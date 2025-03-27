@@ -165,4 +165,7 @@ GitHub → Project Documentation
 
 
 
+![Screenshot (1606)](https://github.com/user-attachments/assets/c98137be-d3b0-40ed-8b52-d4e0ae264b88)
+
+
 
